@@ -1,4 +1,4 @@
-### :octocat: 개발자로 성장하고 있는 코린이👶
+### 개발자로 성장하고 있는 코린이👶
 <!--
 **HHeeeeeee/HHeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :octocat:
 -->
