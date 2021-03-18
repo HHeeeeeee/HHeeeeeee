@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - :octocat:
+
+https://kinetic.codes/2020/07/14/git-profile/ 이 블로그 
 -->
