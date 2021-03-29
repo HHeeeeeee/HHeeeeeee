@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&fontAlignY=40&color=gradient&height=200&section=header&text=개발자로%20성장하고%20있는%20Hee's💻&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Waving&fontAlignY=40&color=gradient&height=200&section=header&text=개발자로%20성장하고%20있는%20Hee's github💻&fontSize=30)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HHeeeeeee)](https://github.com/anuraghazra/github-readme-stats)
