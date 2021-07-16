@@ -9,7 +9,7 @@
 
 <!--
 **HHeeeeeee/HHeeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+온전한 집중력, 꾸준한 성장
 Here are some ideas to get you started:
 
 - Hi there 👋
